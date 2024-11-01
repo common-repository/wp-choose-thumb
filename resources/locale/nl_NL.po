@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-choose-thumb\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-09 11:40+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dave Ligthart <dligthart@gmail.com>\n"
+"Language-Team: daveligthart.com <info@daveligthart.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: english\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wct-thumb-loader.php:64
+msgid "Results"
+msgstr "Resultaten"
+
+#: wp-choose-thumb.php:116
+msgid "WP-Choose-Thumb"
+msgstr "WP-Choose-Thumb"
+
+#: wp-choose-thumb.php:148
+msgid "Choose thumbnail for post"
+msgstr "Kies thumbnail"
+
+#: wp-choose-thumb.php:150
+msgid "previous"
+msgstr "vorige"
+
+#: wp-choose-thumb.php:151
+msgid "next"
+msgstr "volgende"
+
+#: wp-choose-thumb.php:152
+msgid "refresh"
+msgstr "verversen"
+
+#: wp-choose-thumb.php:155
+msgid "Waiting for publish"
+msgstr "Wachten op publicatie"
+
